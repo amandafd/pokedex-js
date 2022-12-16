@@ -31,7 +31,7 @@
 
 <h3 id="the-project">The Project</h3>
 
-<p>Pokedex under development using HTML, CSS and Javascript</a>.</p> 
+<p>Pokedex under development using HTML, CSS, Javascript and PokeAPI</a>.</p> 
 <p>The learning objectives for this project will be updated in the "Lessons learned" section as they are worked through in the run.</p>
 
 
@@ -39,7 +39,7 @@
 
 <h3 id="lessons-learned">Lessons learned</h3>
 <ul>The learning acquired during the execution of this project will be constantly updated here:
-  <li></li>
+  <li>API integration</li>
 </ul> 
 
 <h2 id="authors" align="left">Authors</h2>
