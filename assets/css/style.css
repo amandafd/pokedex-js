@@ -5,10 +5,10 @@
     margin: 0;
     box-sizing: border-box;
     font-family: 'Oxanium', cursive;
-}
+  }
 
 body {
-    background: linear-gradient(to bottom, #61b7f5, #fff);
+    background: linear-gradient(to bottom, #6ab7f5, #fff);
     min-height: 100vh;
     text-align: center;
 }
