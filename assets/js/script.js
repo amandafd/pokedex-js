@@ -45,7 +45,8 @@ form.addEventListener('submit', (event) => {
 });
 
 buttonPrev.addEventListener('click', () => {
-    alert('prev');
+    searchPokemon -= 1;
+    renderPokemon(searchPokemon);
 });
 
 buttonNext.addEventListener('click', () => {
