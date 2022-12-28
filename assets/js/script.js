@@ -9,7 +9,6 @@ const buttonNext = document.querySelector('.btnNext');
 
 let searchPokemon = 1;
 
-
 const fetchPokemon = async (pokemon) => {
     const APIResponse = await fetch(`https://pokeapi.co/api/v2/pokemon/${pokemon}`);
 
@@ -50,7 +49,8 @@ buttonPrev.addEventListener('click', () => {
 });
 
 buttonNext.addEventListener('click', () => {
-    alert('next');
+    searchPokemon += 1;
+    renderPokemon(searchPokemon);
 });
 
 renderPokemon(searchPokemon);
