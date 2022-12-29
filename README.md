@@ -31,7 +31,7 @@
 
 <h3 id="the-project">The Project</h3>
 
-<p>Pokedex under development using HTML, CSS, Javascript and PokeAPI</a>.</p> 
+<p>Pokedex developed using HTML, CSS, Javascript and PokeAPI</a>.</p> 
 <p>The learning objectives for this project will be updated in the "Lessons learned" section as they are worked through in the run.</p>
 
 
