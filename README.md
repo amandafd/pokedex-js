@@ -2,20 +2,20 @@
 
 
 <div align-items="center">
-  <img src="" alt="Project Screenshot">
+  <img src="./assets/images/screenshot.jpg" alt="Project Screenshot">
 </div>
 </br>
 
 <p align="center">
   <a href=""><img src="https://img.shields.io/badge/last%20update-december%202022-blue" align="center" alt="Badge - last update in december 2022" /></a> 
-  <a href=""><img src="https://img.shields.io/badge/status-under%20development-yellowgreen" align="center" alt="Badge status: under development" /></a>
+  <a href=""><img src="https://img.shields.io/badge/status-completed-green" align="center" alt="Badge status: completed" /></a>
   <a href=""><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" align="center" alt="Badge - HTML" /></a>
   <a href=""><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" align="center" alt="Badge - CSS" /></a>
   <a href=""><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" align="center" alt="Badge - Javascript" /></a>
 </p>
 
-<a href="" align="center">Project link</a><br>
-<!--<a href="" align="center">Link do vídeo apresentando o projeto</a>-->
+<a href="https://pokedex-js-zeta.vercel.app/" align="center">Project link</a><br>
+
 
 <ul>Content
   <li><a href="#overview">Overview</a> 
@@ -40,6 +40,8 @@
 <h3 id="lessons-learned">Lessons learned</h3>
 <ul>The learning acquired during the execution of this project will be constantly updated here:
   <li>API integration</li>
+  <li>Next and Prev buttons working</li>
+  <li>Searching by ID and name to find pokemons</li>
 </ul> 
 
 <h2 id="authors" align="left">Authors</h2>
